@@ -1,1 +1,1 @@
-let TeamMembers = ["Levi"]
+const TeamMembers = ["Levi", "Andra"];
